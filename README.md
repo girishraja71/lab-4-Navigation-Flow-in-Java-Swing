@@ -35,8 +35,7 @@ git checkout main    # return to the latest version
 |-- lib/
 |   `-- jcalendar-0.8.jar            Date picker library
 |-- nbproject/                       NetBeans project configuration
-|-- Screenshots/
-|   `-- lab4/                        Lab 4 screenshots, Step 1 to Step 3
+|-- lab 4 screenshots/              Lab 4 screenshots, Step 1 to Step 3
 |-- src/
 |   |-- model/
 |   |   `-- User.java                Data model
@@ -76,15 +75,15 @@ Each failed check shows an error message describing the problem, and the form st
 
 **Step 1. View screen.** Clicking **View** shows the submitted details with all inputs locked, plus the photo.
 
-![Step 1](Screenshots/lab4/Step_1.webp)
+![Step 1](lab%204%20screenshots/Screenshot%202026-10-06%20220808.png)
 
 **Step 2. Success dialog.** Shown after a valid submission, with every input and the uploaded photo.
 
-![Step 2](Screenshots/lab4/Step_2.webp)
+![Step 2](lab%204%20screenshots/Screenshot%202026-10-06%20220725.png)
 
 **Step 3. Project structure.** The `model` package holds `User.java`, and the `ui` package holds the main frame and the two panels.
 
-![Step 3](Screenshots/lab4/Step_3.webp)
+![Step 3](lab%204%20screenshots/Screenshot%202026-10-06%20214300.png)
 
 ## Lab 3: User input form
 
