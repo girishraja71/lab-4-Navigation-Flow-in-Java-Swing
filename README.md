@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/33136913/README.md)
 # INFO 5100 Application Engineering and Development
 
 A Java Swing desktop application built across the labs of INFO 5100 at Northeastern University. Each lab adds features to the same idea: collect a user's details, validate them, and display them back.
@@ -75,7 +74,7 @@ Each failed check shows an error message describing the problem, and the form st
 
 ### Screenshots
 
-**Step 1. Project structure.** The `model` package holds `User.java`, and the `ui` package holds the main frame and the two panels.
+**Step 1. View screen.** Clicking **View** shows the submitted details with all inputs locked, plus the photo.
 
 ![Step 1](Screenshots/lab4/Step_1.webp)
 
@@ -83,7 +82,7 @@ Each failed check shows an error message describing the problem, and the form st
 
 ![Step 2](Screenshots/lab4/Step_2.webp)
 
-**Step 3. View screen.** The submitted details with all inputs locked, plus the photo.
+**Step 3. Project structure.** The `model` package holds `User.java`, and the `ui` package holds the main frame and the two panels.
 
 ![Step 3](Screenshots/lab4/Step_3.webp)
 
@@ -97,6 +96,3 @@ The first version was a single-window form (`UserJFrame`) with validation, a pho
 - Before the first submission, the view screen is empty.
 - Photos are scaled to 60 by 60 pixels on the view screen and 150 by 150 pixels in the success dialog.
 - The `User` model also has `email` and `hobbies` fields, kept from Lab 3. The Lab 4 form does not collect them yet.
-
-
-
