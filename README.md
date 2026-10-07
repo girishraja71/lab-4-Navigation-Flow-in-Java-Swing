@@ -74,7 +74,7 @@ Each failed check shows an error message describing the problem, and the form st
 
 ### Screenshots
 
-**Step 1. Project structure.** The `model` package holds `User.java`, and the `ui` package holds the main frame and the two panels.
+**Step 1. View screen.** Clicking **View** shows the submitted details with all inputs locked, plus the photo.
 
 ![Step 1](Screenshots/lab4/Step_1.webp)
 
@@ -82,7 +82,7 @@ Each failed check shows an error message describing the problem, and the form st
 
 ![Step 2](Screenshots/lab4/Step_2.webp)
 
-**Step 3. View screen.** The submitted details with all inputs locked, plus the photo.
+**Step 3. Project structure.** The `model` package holds `User.java`, and the `ui` package holds the main frame and the two panels.
 
 ![Step 3](Screenshots/lab4/Step_3.webp)
 
